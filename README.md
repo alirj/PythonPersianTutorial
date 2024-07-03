@@ -38,7 +38,7 @@ To get started with this book, you can:
 - Download the source code from GitHub and run it on your local machine:
 
   ```
-  $ git clone https://github.com/saeiddrv/PythonPersianTutorial.git
+  $ git clone https://github.com/alirj/PythonPersianTutorial.git
   
   $ pip install -U pip
   $ pip install virtualenv
@@ -58,7 +58,7 @@ To get started with this book, you can:
 - Download the source code from GitHub and run it in Docker:
   
   ```
-  $ git clone https://github.com/saeiddrv/PythonPersianTutorial.git
+  $ git clone https://github.com/alirj/PythonPersianTutorial.git
   
   $ cd PythonPersianTutorial
   
